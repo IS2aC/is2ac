@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Isaac Emmanuel</h1>
-<h3 align="center">I'm a full-stack data professional ready to assist enterprises and all types of organizations in leveraging their data for profit.</h3>
+<h3 align="center">I'm a data passionate ready to assist enterprises in leveraging their data for profit.</h3>
+<img align="right" alt="Coding" width="400" src= "https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
-- 🌱 I’m currently learning **Azure Technologies & Modern data stack**
+- 🌱 I’m currently learning **Azure & GCP Data Engineering Tools**
 
 - 📝 I regularly write articles on [https://medium.com/@nisaacemmanuel](https://medium.com/@nisaacemmanuel)
 
 - 📫 How to reach me **nisaacemmanuel@gmail.com**
 
-- 📄 Know about my experiences [2 years ago](2 years ago)
+- 📄 Know about my experiences [2 years ago]
+
+### ENGLISH VERSION
+*With regards to this repository, it will serve as a repository for the personal experiences I've undertaken, as well as a collection of packages and modules utilized in my personal toolkit as a data engineer and aspiring ML Engineer. Moreover, it will be made available to the learning community, fostering a spirit of collaboration and mutual enrichment, with the aim of contributing to the collective growth of all.*
+
+
+### FRENCH VERSION
+*Concernant ce dépôt, il aura pour vocation d'accueillir les expériences personnelles que j'ai réalisées, ainsi que les dépôts de packages et de modules utilisés dans le cadre de ma boîte à outils personnelle en tant que data engineer et aspirant ML Engineer. Il sera également mis à disposition de la communauté d'apprenants, dans un esprit d'entraide et de partage, afin de contribuer à l'enrichissement mutuel de chacun.*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
