@@ -2,7 +2,9 @@
 <h3 align="center">I'm a data passionate ready to assist enterprises in leveraging their data for profit.</h3>
 <img align="right" alt="Coding" width="400" src= "https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
-- 🌱 I’m currently learning **Azure & GCP Data Engineering Tools**
+- 🌱 I’m learning cloud technologies as **Azure & GCP**
+- 🌱 I’m also fan of **DevOps | MlOps tools**
+- 🌱 I love learn **Modern Data Stack and AI solutions**
 
 - 📝 I regularly write articles on [https://medium.com/@nisaacemmanuel](https://medium.com/@nisaacemmanuel)
 
