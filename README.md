@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nisaacemmanuel@gmail.com**
 
-- 📄 Know about my experiences [2 years ago]
+- 📄 Know about my experiences [3 years ago]
 
 ### ENGLISH VERSION
 *With regards to this repository, it will serve as a repository for the personal experiences I've undertaken, as well as a collection of packages and modules utilized in my personal toolkit as a data engineer and aspiring ML Engineer. Moreover, it will be made available to the learning community, fostering a spirit of collaboration and mutual enrichment, with the aim of contributing to the collective growth of all.*
